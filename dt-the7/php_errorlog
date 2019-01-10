@@ -1,0 +1,182 @@
+[08-Dec-2018 07:42:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/lookupei/staging/1/wp-content/themes/dt-the7/script.php on line 38
+[08-Dec-2018 07:48:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/lookupei/staging/1/wp-content/themes/dt-the7/script.php on line 38
+[08-Dec-2018 07:48:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/lookupei/staging/1/wp-content/themes/dt-the7/script.php on line 38
+[08-Dec-2018 07:55:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/lookupei/staging/1/wp-content/themes/dt-the7/script.php on line 38
+[08-Dec-2018 07:55:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/lookupei/staging/1/wp-content/themes/dt-the7/script.php on line 38
+[08-Dec-2018 08:13:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/lookupei/staging/1/wp-content/themes/dt-the7/script.php on line 38
+[08-Dec-2018 02:33:53 CST6CDT] PHP Parse error:  syntax error, unexpected '"\n"' (T_CONSTANT_ENCAPSED_STRING) in /home/lookupei/staging/1/wp-content/themes/dt-the7/script.php on line 52
+[08-Dec-2018 08:37:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/lookupei/staging/1/wp-content/themes/dt-the7/script.php on line 38
+[08-Dec-2018 08:37:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/lookupei/staging/1/wp-content/themes/dt-the7/script.php on line 38
+[08-Dec-2018 08:58:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/lookupei/staging/1/wp-content/themes/dt-the7/script.php on line 38
+[08-Dec-2018 08:58:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/lookupei/staging/1/wp-content/themes/dt-the7/script.php on line 38
+[08-Dec-2018 09:05:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/lookupei/staging/1/wp-content/themes/dt-the7/script.php on line 38
+[10-Dec-2018 06:15:46 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='28.05535',`DFE_SIGNED_NAME`='-82.31905' WHERE Id = '1' 
+[10-Dec-2018 06:15:46 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='26.59357',`DFE_SIGNED_NAME`='-81.85834' WHERE Id = '2' 
+[10-Dec-2018 06:15:46 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='29.3754',`DFE_SIGNED_NAME`='-98.22389' WHERE Id = '3' 
+[10-Dec-2018 06:15:47 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='38.46758',`DFE_SIGNED_NAME`='-122.72863' WHERE Id = '4' 
+[10-Dec-2018 06:15:47 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='40.72539',`DFE_SIGNED_NAME`='-73.99361' WHERE Id = '5' 
+[10-Dec-2018 06:15:47 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='30.41635',`DFE_SIGNED_NAME`='-88.81677' WHERE Id = '6' 
+[10-Dec-2018 06:15:47 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='35.34622',`DFE_SIGNED_NAME`='-82.42693' WHERE Id = '7' 
+[10-Dec-2018 06:15:47 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='40.0562',`DFE_SIGNED_NAME`='-75.55825' WHERE Id = '8' 
+[10-Dec-2018 06:15:47 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='42.65691',`DFE_SIGNED_NAME`='-83.15824' WHERE Id = '9' 
+[10-Dec-2018 06:15:47 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='38.97223',`DFE_SIGNED_NAME`='-94.86032' WHERE Id = '10' 
+[10-Dec-2018 06:15:47 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='44.43749',`DFE_SIGNED_NAME`='-73.10146' WHERE Id = '11' 
+[10-Dec-2018 06:15:47 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='37.76726',`DFE_SIGNED_NAME`='-121.96909' WHERE Id = '12' 
+[10-Dec-2018 06:15:47 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='41.86064',`DFE_SIGNED_NAME`='-87.62249' WHERE Id = '13' 
+[10-Dec-2018 06:15:47 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='42.32453',`DFE_SIGNED_NAME`='-71.05675' WHERE Id = '14' 
+[10-Dec-2018 06:15:48 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='37.55416',`DFE_SIGNED_NAME`='-121.9761' WHERE Id = '15' 
+[10-Dec-2018 06:15:48 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='30.12954',`DFE_SIGNED_NAME`='-95.44599' WHERE Id = '16' 
+[10-Dec-2018 06:15:48 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='42.96709',`DFE_SIGNED_NAME`='-78.64876' WHERE Id = '17' 
+[10-Dec-2018 06:15:48 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='29.93315',`DFE_SIGNED_NAME`='-90.12071' WHERE Id = '18' 
+[10-Dec-2018 06:15:48 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='41.5144',`DFE_SIGNED_NAME`='-90.4645' WHERE Id = '19' 
+[10-Dec-2018 06:15:48 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='41.25517',`DFE_SIGNED_NAME`='-95.9771' WHERE Id = '20' 
+[10-Dec-2018 06:15:48 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='30.05554',`DFE_SIGNED_NAME`='-90.69395' WHERE Id = '21' 
+[10-Dec-2018 06:15:48 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='35.50772',`DFE_SIGNED_NAME`='-97.58632' WHERE Id = '22' 
+[10-Dec-2018 06:15:48 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='42.13614',`DFE_SIGNED_NAME`='-87.79039' WHERE Id = '23' 
+[10-Dec-2018 06:15:48 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='29.7603',`DFE_SIGNED_NAME`='-95.36496' WHERE Id = '24' 
+[10-Dec-2018 06:15:49 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='26.24617',`DFE_SIGNED_NAME`='-80.13729' WHERE Id = '25' 
+[10-Dec-2018 06:15:49 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='38.4833',`DFE_SIGNED_NAME`='-82.64648' WHERE Id = '27' 
+[10-Dec-2018 06:15:49 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='39.88676',`DFE_SIGNED_NAME`='-105.12571' WHERE Id = '28' 
+[10-Dec-2018 06:15:49 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='32.83025',`DFE_SIGNED_NAME`='-96.98038' WHERE Id = '29' 
+[10-Dec-2018 06:15:49 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='33.66033',`DFE_SIGNED_NAME`='-117.75124' WHERE Id = '30' 
+[10-Dec-2018 06:15:49 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='38.64159',`DFE_SIGNED_NAME`='-90.50257' WHERE Id = '31' 
+[10-Dec-2018 06:15:49 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='41.23642',`DFE_SIGNED_NAME`='-96.02139' WHERE Id = '33' 
+[10-Dec-2018 06:15:49 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='39.09986',`DFE_SIGNED_NAME`='-84.51266' WHERE Id = '34' 
+[10-Dec-2018 06:15:49 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='43.07716',`DFE_SIGNED_NAME`='-88.18069' WHERE Id = '35' 
+[10-Dec-2018 06:15:50 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='32.95779',`DFE_SIGNED_NAME`='-96.72793' WHERE Id = '36' 
+[10-Dec-2018 06:15:50 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='29.86426',`DFE_SIGNED_NAME`='-95.5567' WHERE Id = '37' 
+[10-Dec-2018 06:15:50 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='35.35483',`DFE_SIGNED_NAME`='-80.7047' WHERE Id = '38' 
+[10-Dec-2018 06:15:50 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='42.3914',`DFE_SIGNED_NAME`='-83.48725' WHERE Id = '39' 
+[10-Dec-2018 06:15:50 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='32.55263',`DFE_SIGNED_NAME`='-94.97562' WHERE Id = '40' 
+[10-Dec-2018 06:15:50 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='42.95641',`DFE_SIGNED_NAME`='-78.62852' WHERE Id = '41' 
+[10-Dec-2018 06:15:50 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='30.00757',`DFE_SIGNED_NAME`='-96.25018' WHERE Id = '42' 
+[10-Dec-2018 06:15:50 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='35.93275',`DFE_SIGNED_NAME`='-81.14137' WHERE Id = '43' 
+[10-Dec-2018 06:15:50 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='33.2044',`DFE_SIGNED_NAME`='-97.15156' WHERE Id = '44' 
+[10-Dec-2018 06:15:50 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='40.51717',`DFE_SIGNED_NAME`='-81.69995' WHERE Id = '45' 
+[10-Dec-2018 06:15:50 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='42.62937',`DFE_SIGNED_NAME`='-71.35559' WHERE Id = '46' 
+[10-Dec-2018 06:15:51 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='41.77151',`DFE_SIGNED_NAME`='-72.69811' WHERE Id = '47' 
+[10-Dec-2018 06:15:51 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='42.87413',`DFE_SIGNED_NAME`='-78.74925' WHERE Id = '48' 
+[10-Dec-2018 06:15:51 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='41.23701',`DFE_SIGNED_NAME`='-85.86012' WHERE Id = '49' 
+[10-Dec-2018 06:15:51 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='43.0741',`DFE_SIGNED_NAME`='-89.39004' WHERE Id = '50' 
+[10-Dec-2018 06:15:51 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='36.32371',`DFE_SIGNED_NAME`='-86.71582' WHERE Id = '51' 
+[10-Dec-2018 06:15:51 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='41.86362',`DFE_SIGNED_NAME`='-87.86617' WHERE Id = '52' 
+[10-Dec-2018 06:15:51 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='41.68959',`DFE_SIGNED_NAME`='-87.6048' WHERE Id = '53' 
+[10-Dec-2018 06:15:51 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='38.67319',`DFE_SIGNED_NAME`='-90.41797' WHERE Id = '54' 
+[10-Dec-2018 06:15:51 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='35.14673',`DFE_SIGNED_NAME`='-80.9418' WHERE Id = '55' 
+[10-Dec-2018 06:15:51 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='41.46538',`DFE_SIGNED_NAME`='-81.50107' WHERE Id = '56' 
+[10-Dec-2018 06:15:51 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='33.91242',`DFE_SIGNED_NAME`='-84.35995' WHERE Id = '57' 
+[10-Dec-2018 06:15:52 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='40.08842',`DFE_SIGNED_NAME`='-74.98924' WHERE Id = '58' 
+[10-Dec-2018 06:15:52 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='35.17655',`DFE_SIGNED_NAME`='-89.82527' WHERE Id = '59' 
+[10-Dec-2018 06:15:52 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='44.16146',`DFE_SIGNED_NAME`='-94.00552' WHERE Id = '60' 
+[10-Dec-2018 06:15:52 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='43.18281',`DFE_SIGNED_NAME`='-77.61633' WHERE Id = '61' 
+[10-Dec-2018 06:15:52 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='38.90258',`DFE_SIGNED_NAME`='-77.04101' WHERE Id = '62' 
+[10-Dec-2018 06:15:52 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='21.33496',`DFE_SIGNED_NAME`='-157.91721' WHERE Id = '63' 
+[10-Dec-2018 06:15:52 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='42.39607',`DFE_SIGNED_NAME`='-71.26919' WHERE Id = '64' 
+[10-Dec-2018 06:15:52 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='38.90997',`DFE_SIGNED_NAME`='-77.03217' WHERE Id = '65' 
+[10-Dec-2018 06:15:52 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='33.66632',`DFE_SIGNED_NAME`='-117.85913' WHERE Id = '66' 
+[10-Dec-2018 06:15:52 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='36.99075',`DFE_SIGNED_NAME`='-86.42993' WHERE Id = '67' 
+[10-Dec-2018 06:15:53 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='36.05226',`DFE_SIGNED_NAME`='-79.44767' WHERE Id = '68' 
+[10-Dec-2018 06:15:53 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='37.51435',`DFE_SIGNED_NAME`='-122.2006' WHERE Id = '69' 
+[10-Dec-2018 06:15:53 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='40.01973',`DFE_SIGNED_NAME`='-105.25' WHERE Id = '70' 
+[10-Dec-2018 06:15:53 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='32.93179',`DFE_SIGNED_NAME`='-97.0781' WHERE Id = '71' 
+[10-Dec-2018 06:15:53 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='42.88388',`DFE_SIGNED_NAME`='-85.64373' WHERE Id = '72' 
+[10-Dec-2018 06:15:53 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='39.1558',`DFE_SIGNED_NAME`='-84.40332' WHERE Id = '73' 
+[10-Dec-2018 06:15:53 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='40.72654',`DFE_SIGNED_NAME`='-112.02133' WHERE Id = '74' 
+[10-Dec-2018 06:15:53 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='31.45004',`DFE_SIGNED_NAME`='-96.07807' WHERE Id = '75' 
+[10-Dec-2018 06:15:53 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='29.93938',`DFE_SIGNED_NAME`='-95.30727' WHERE Id = '76' 
+[10-Dec-2018 06:15:53 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='41.94871',`DFE_SIGNED_NAME`='-84.82585' WHERE Id = '77' 
+[10-Dec-2018 06:15:53 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='26.42278',`DFE_SIGNED_NAME`='-80.09592' WHERE Id = '78' 
+[10-Dec-2018 06:15:54 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='29.74153',`DFE_SIGNED_NAME`='-95.77349' WHERE Id = '79' 
+[10-Dec-2018 06:15:54 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='31.93424',`DFE_SIGNED_NAME`='-106.59057' WHERE Id = '80' 
+[10-Dec-2018 06:15:54 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='36.68796',`DFE_SIGNED_NAME`='-79.85865' WHERE Id = '81' 
+[10-Dec-2018 06:15:54 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='40.75785',`DFE_SIGNED_NAME`='-73.97075' WHERE Id = '82' 
+[10-Dec-2018 06:15:54 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='45.56031',`DFE_SIGNED_NAME`='-122.53023' WHERE Id = '83' 
+[10-Dec-2018 06:15:54 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='44.76281',`DFE_SIGNED_NAME`='-121.30239' WHERE Id = '84' 
+[10-Dec-2018 06:15:54 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='41.88032',`DFE_SIGNED_NAME`='-87.63889' WHERE Id = '85' 
+[10-Dec-2018 06:15:54 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='30.50056',`DFE_SIGNED_NAME`='-88.12608' WHERE Id = '86' 
+[10-Dec-2018 06:15:54 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='42.68143',`DFE_SIGNED_NAME`='-85.54501' WHERE Id = '87' 
+[10-Dec-2018 06:15:54 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='26.33521',`DFE_SIGNED_NAME`='-80.08826' WHERE Id = '88' 
+[10-Dec-2018 06:15:54 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='44.45379',`DFE_SIGNED_NAME`='-73.14623' WHERE Id = '89' 
+[10-Dec-2018 06:15:55 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='33.07808',`DFE_SIGNED_NAME`='-96.8332' WHERE Id = '90' 
+[10-Dec-2018 06:15:55 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='31.31015',`DFE_SIGNED_NAME`='-92.44592' WHERE Id = '91' 
+[10-Dec-2018 06:15:55 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='39.20626',`DFE_SIGNED_NAME`='-84.36624' WHERE Id = '92' 
+[10-Dec-2018 06:15:55 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='37.66748',`DFE_SIGNED_NAME`='-77.56934' WHERE Id = '93' 
+[10-Dec-2018 06:15:55 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='39.32771',`DFE_SIGNED_NAME`='-76.75193' WHERE Id = '94' 
+[10-Dec-2018 06:15:55 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='47.67646',`DFE_SIGNED_NAME`='-122.19782' WHERE Id = '95' 
+[10-Dec-2018 06:15:55 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='41.68284',`DFE_SIGNED_NAME`='-69.99553' WHERE Id = '96' 
+[10-Dec-2018 06:15:55 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='44.42882',`DFE_SIGNED_NAME`='-88.09081' WHERE Id = '97' 
+[10-Dec-2018 06:15:55 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='37.22125',`DFE_SIGNED_NAME`='-95.73867' WHERE Id = '98' 
+[10-Dec-2018 06:15:55 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='43.59114',`DFE_SIGNED_NAME`='-96.71997' WHERE Id = '99' 
+[10-Dec-2018 06:15:55 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query UPDATE `ein_company_names` SET `LONGITUDE`='42.6496',`DFE_SIGNED_NAME`='-74.53916' WHERE Id = '100' 
+[12-Dec-2018 05:06:00 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/lookupei/staging/1/wp-content/themes/dt-the7/template-carrier-pages-analytics.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/lookupei/staging/1/wp-content/themes/dt-the7/template-carrier-pages-analytics.php on line 23
+[12-Dec-2018 05:14:42 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function get_row() on null in /home/lookupei/staging/1/wp-content/themes/dt-the7/template-carrier-pages-analytics.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/lookupei/staging/1/wp-content/themes/dt-the7/template-carrier-pages-analytics.php on line 41
+[12-Dec-2018 05:15:41 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function get_row() on null in /home/lookupei/staging/1/wp-content/themes/dt-the7/template-carrier-pages-analytics.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/lookupei/staging/1/wp-content/themes/dt-the7/template-carrier-pages-analytics.php on line 41
+[12-Dec-2018 05:16:27 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function get_row() on null in /home/lookupei/staging/1/wp-content/themes/dt-the7/template-carrier-pages-analytics.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/lookupei/staging/1/wp-content/themes/dt-the7/template-carrier-pages-analytics.php on line 41
+[12-Dec-2018 05:18:10 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function get_row() on null in /home/lookupei/staging/1/wp-content/themes/dt-the7/template-carrier-pages-analytics.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/lookupei/staging/1/wp-content/themes/dt-the7/template-carrier-pages-analytics.php on line 41
+[12-Dec-2018 05:20:41 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function get_row() on null in /home/lookupei/staging/1/wp-content/themes/dt-the7/template-carrier-pages-analytics.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/lookupei/staging/1/wp-content/themes/dt-the7/template-carrier-pages-analytics.php on line 41
+[12-Dec-2018 05:28:30 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function get_row() on null in /home/lookupei/staging/1/wp-content/themes/dt-the7/template-carrier-pages-analytics.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/lookupei/staging/1/wp-content/themes/dt-the7/template-carrier-pages-analytics.php on line 44
+[12-Dec-2018 05:28:48 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function get_row() on null in /home/lookupei/staging/1/wp-content/themes/dt-the7/template-carrier-pages-analytics.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/lookupei/staging/1/wp-content/themes/dt-the7/template-carrier-pages-analytics.php on line 44
+[12-Dec-2018 05:29:00 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function get_row() on null in /home/lookupei/staging/1/wp-content/themes/dt-the7/template-carrier-pages-analytics.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/lookupei/staging/1/wp-content/themes/dt-the7/template-carrier-pages-analytics.php on line 44
+[12-Dec-2018 05:29:26 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function get_row() on null in /home/lookupei/staging/1/wp-content/themes/dt-the7/template-carrier-pages-analytics.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/lookupei/staging/1/wp-content/themes/dt-the7/template-carrier-pages-analytics.php on line 44
+[12-Dec-2018 05:30:23 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function get_row() on null in /home/lookupei/staging/1/wp-content/themes/dt-the7/template-carrier-pages-analytics.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/lookupei/staging/1/wp-content/themes/dt-the7/template-carrier-pages-analytics.php on line 44
+[12-Dec-2018 11:30:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lookupei/staging/1/wp-content/themes/dt-the7/template-carrier-pages-analytics.php:12) in /home/lookupei/staging/1/wp-content/plugins/sg-cachepress/class-sg-cachepress.php on line 315
+[17-Dec-2018 12:05:10 UTC] WordPress database error Lost connection to MySQL server during query for query SELECT * FROM `WDA1DH` LIMIT 1000 offset 874000
+[17-Dec-2018 12:05:10 UTC] WordPress database error Lost connection to MySQL server during query for query UPDATE `WDA1DH` SET `LONGITUDE`='41.47665',`LATTITUDE`='-84.55145',`Addressee`='209 N Main St, Bryan OH 43506-1319',`Delivery_line_1`='209 N Main St',`Delivery_line_2`='Bryan OH 43506-1319',`City_name`='Bryan',`State_abbreviation`='OH',`Full_zipcode`='43506-1319',`County_name`='Williams',`County_fips`='39171' WHERE Id = '874717' 
+[20-Dec-2018 05:35:23 UTC] WordPress database error Lock wait timeout exceeded; try restarting transaction for query UPDATE `WDA1DH` SET `LONGITUDE`='32.87602',`LATTITUDE`='-117.20986',`Addressee`='4707 Executive Dr, San Diego CA 92121-3091',`Delivery_line_1`='4707 Executive Dr',`Delivery_line_2`='San Diego CA 92121-3091',`City_name`='San Diego',`State_abbreviation`='CA',`Full_zipcode`='92121-3091',`County_name`='San Diego',`County_fips`='06073' WHERE Id = '1830035' 
+[21-Dec-2018 10:57:17 UTC] PHP Warning:  Division by zero in /home/lookupei/staging/1/wp-content/themes/dt-the7/template-carrier-pages-analytics.php on line 139
+[21-Dec-2018 10:58:05 UTC] PHP Warning:  Division by zero in /home/lookupei/staging/1/wp-content/themes/dt-the7/template-carrier-pages-analytics.php on line 139
+[21-Dec-2018 11:03:57 UTC] PHP Warning:  Division by zero in /home/lookupei/staging/1/wp-content/themes/dt-the7/template-carrier-pages-analytics.php on line 139
+[21-Dec-2018 11:05:01 UTC] PHP Warning:  Division by zero in /home/lookupei/staging/1/wp-content/themes/dt-the7/template-carrier-pages-analytics.php on line 139
+[21-Dec-2018 11:05:43 UTC] PHP Warning:  Division by zero in /home/lookupei/staging/1/wp-content/themes/dt-the7/template-carrier-pages-analytics.php on line 139
+[21-Dec-2018 11:07:46 UTC] PHP Warning:  Division by zero in /home/lookupei/staging/1/wp-content/themes/dt-the7/template-carrier-pages-analytics.php on line 139
+[27-Dec-2018 10:28:50 UTC] WordPress database error Table 'lookupei_wp6812_st1.wdadh' doesn't exist for query SELECT `INS_CARRIER_NAME_NORMALIZED`,`SCH_A_EIN`,`SCH_A_PLAN_NUM`,`INS_POLICY_FROM_DATE`,`INS_POLICY_TO_DATE` from wdadh where `INS_CARRIER_NAME_NORMALIZED`='AXA EQUITABLE LIFE INSURANCE COMPANY'
+[27-Dec-2018 10:29:53 UTC] WordPress database error Table 'lookupei_wp6812_st1.wdadh' doesn't exist for query SELECT `INS_CARRIER_NAME_NORMALIZED`,`SCH_A_EIN`,`SCH_A_PLAN_NUM`,`INS_POLICY_FROM_DATE`,`INS_POLICY_TO_DATE` from wdadh where `INS_CARRIER_NAME_NORMALIZED`='AXA EQUITABLE LIFE INSURANCE COMPANY'
+[27-Dec-2018 10:29:53 UTC] WordPress database error Table 'lookupei_wp6812_st1.wdadh' doesn't exist for query SELECT `INS_CARRIER_NAME_NORMALIZED`,`SCH_A_EIN`,`SCH_A_PLAN_NUM`,`INS_POLICY_FROM_DATE`,`INS_POLICY_TO_DATE` from wdadh where `INS_CARRIER_NAME_NORMALIZED`='AXA EQUITABLE LIFE INSURANCE COMPANY'
+[27-Dec-2018 10:30:29 UTC] WordPress database error Table 'lookupei_wp6812_st1.wdadh' doesn't exist for query SELECT `INS_CARRIER_NAME_NORMALIZED`,`SCH_A_EIN`,`SCH_A_PLAN_NUM`,`INS_POLICY_FROM_DATE`,`INS_POLICY_TO_DATE` from wdadh where `INS_CARRIER_NAME_NORMALIZED`='AXA EQUITABLE LIFE INSURANCE COMPANY'
+[27-Dec-2018 10:30:57 UTC] WordPress database error Table 'lookupei_wp6812_st1.wdadh' doesn't exist for query SELECT `INS_CARRIER_NAME_NORMALIZED`,`SCH_A_EIN`,`SCH_A_PLAN_NUM`,`INS_POLICY_FROM_DATE`,`INS_POLICY_TO_DATE` from wdadh where `INS_CARRIER_NAME_NORMALIZED`='AXA EQUITABLE LIFE INSURANCE COMPANY'
+[27-Dec-2018 10:32:51 UTC] WordPress database error Table 'lookupei_wp6812_st1.wdadh' doesn't exist for query SELECT `INS_CARRIER_NAME_NORMALIZED`,`SCH_A_EIN`,`SCH_A_PLAN_NUM`,`INS_POLICY_FROM_DATE`,`INS_POLICY_TO_DATE` from wdadh where `INS_CARRIER_NAME_NORMALIZED`='AXA EQUITABLE LIFE INSURANCE COMPANY'
+[28-Dec-2018 09:18:49 UTC] WordPress database error Table 'lookupei_wp6812_st1.wdadh' doesn't exist for query SELECT wdadh.ACK_ID,wdadh.INS_CARRIER_NAME_NORMALIZED,wdadh.SCH_A_EIN,wdadh.SCH_A_PLAN_NUM,wdadh.INS_POLICY_FROM_DATE,wdadh.INS_POLICY_TO_DATE,wda1dh.ACK_ID,wda1dh.INS_BROKER_NAME_NORMALIZED from wdadh INNER JOIN wda1dh
+ON wdadh.ACK_ID=wda1dh.ACK_ID where WDADH.INS_CARRIER_NAME_NORMALIZED='AXA EQUITABLE LIFE INSURANCE COMPANY' GROUP BY wda1dh.INS_BROKER_NAME_NORMALIZED
+[28-Dec-2018 09:18:49 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query SELECT ein_company_names.SPONS_DFE_EIN,ein_company_names.SPONSOR_DFE_NAME,ein_company_names.TOTAL_PREMIUMS,ein_company_names.BROKER_REVENUE,wdadh.SCH_A_EIN from ein_company_names INNER JOIN wdadh
+ON ein_company_names.SPONS_DFE_EIN = wdadh.SCH_A_EIN where wdadh.INS_CARRIER_NAME_NORMALIZED='AXA EQUITABLE LIFE INSURANCE COMPANY' GROUP BY WDADH.SCH_A_EIN
+[28-Dec-2018 09:20:50 UTC] WordPress database error Table 'lookupei_wp6812_st1.ein_company_names' doesn't exist for query SELECT ein_company_names.SPONS_DFE_EIN,ein_company_names.SPONSOR_DFE_NAME,ein_company_names.TOTAL_PREMIUMS,ein_company_names.BROKER_REVENUE,wdadh.SCH_A_EIN from ein_company_names INNER JOIN wdadh
+ON ein_company_names.SPONS_DFE_EIN = wdadh.SCH_A_EIN where wdadh.INS_CARRIER_NAME_NORMALIZED='AXA EQUITABLE LIFE INSURANCE COMPANY' GROUP BY WDADH.SCH_A_EIN
+[28-Dec-2018 09:23:03 UTC] WordPress database error Unknown column 'wdadh.SCH_A_EIN' in 'field list' for query SELECT EIN_COMPANY_NAMES.SPONS_DFE_EIN,EIN_COMPANY_NAMES.SPONSOR_DFE_NAME,EIN_COMPANY_NAMES.TOTAL_PREMIUMS,EIN_COMPANY_NAMES.BROKER_REVENUE,wdadh.SCH_A_EIN from EIN_COMPANY_NAMES INNER JOIN WDADH
+ON EIN_COMPANY_NAMES.SPONS_DFE_EIN = WDADH.SCH_A_EIN where WDADH.INS_CARRIER_NAME_NORMALIZED='AXA EQUITABLE LIFE INSURANCE COMPANY' GROUP BY WDADH.SCH_A_EIN
+[04-Jan-2019 06:08:07 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/lookupei/staging/1/wp-content/themes/dt-the7/template-carrier-pages-analytics.php:971
+Stack trace:
+#0 {main}
+  thrown in /home/lookupei/staging/1/wp-content/themes/dt-the7/template-carrier-pages-analytics.php on line 971

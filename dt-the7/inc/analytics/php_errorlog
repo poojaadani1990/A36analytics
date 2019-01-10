@@ -1,0 +1,110 @@
+[28-Dec-2018 06:46:15 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.SCH_A_EIN
+	FROM   WDA1DH 
+		   INNER JOIN WDADH 
+				   ON ( WDA1DH.ack_id = WD' at line 12 for query SELECT WDA1DH.ins_broker_name_normalized, 
+		   WDA1DH.ins_broker_us_state, 
+		   WDA1DH.ins_broker_zip, 
+		   sum(WDA1DH.ins_broker_comm_pd_amt) as ins_broker_comm_pd_amt, 
+		   sum(WDA1DH.ins_broker_fees_pd_amt) as ins_broker_fees_pd_amt, 
+		   WDADH.ins_carrier_name_normalized,
+		   EIN_COMPANY_NAMES.SPONSOR_DFE_NAME,
+		   EIN_COMPANY_NAMES.SPONS_DFE_MAIL_US_STATE,
+		   EIN_COMPANY_NAMES.SPONS_DFE_MAIL_US_ZIP,
+		   EIN_COMPANY_NAMES.TOTAL_PREMIUMS,
+		   EIN_COMPANY_NAMES.BROKER_REVENUE
+           WDADH.SCH_A_EIN
+	FROM   WDA1DH 
+		   INNER JOIN WDADH 
+				   ON ( WDA1DH.ack_id = WDADH.ack_id ) 
+		   INNER JOIN EIN_COMPANY_NAMES
+				   ON ( WDADH.SCH_A_EIN = EIN_COMPANY_NAMES.SPONS_DFE_EIN ) 
+	WHERE  ( WDA1DH.ins_broker_name_normalized = 'RAYMOND JAMES' )
+	GROUP BY WDADH.ins_carrier_name_normalized
+[28-Dec-2018 06:48:25 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.SCH_A_EIN
+	FROM   WDA1DH 
+		   INNER JOIN WDADH 
+				   ON ( WDA1DH.ack_id = WD' at line 12 for query SELECT WDA1DH.ins_broker_name_normalized, 
+		   WDA1DH.ins_broker_us_state, 
+		   WDA1DH.ins_broker_zip, 
+		   sum(WDA1DH.ins_broker_comm_pd_amt) as ins_broker_comm_pd_amt, 
+		   sum(WDA1DH.ins_broker_fees_pd_amt) as ins_broker_fees_pd_amt, 
+		   WDADH.ins_carrier_name_normalized,
+		   EIN_COMPANY_NAMES.SPONSOR_DFE_NAME,
+		   EIN_COMPANY_NAMES.SPONS_DFE_MAIL_US_STATE,
+		   EIN_COMPANY_NAMES.SPONS_DFE_MAIL_US_ZIP,
+		   EIN_COMPANY_NAMES.TOTAL_PREMIUMS,
+		   EIN_COMPANY_NAMES.BROKER_REVENUE
+           WDADH.SCH_A_EIN
+	FROM   WDA1DH 
+		   INNER JOIN WDADH 
+				   ON ( WDA1DH.ack_id = WDADH.ack_id ) 
+		   INNER JOIN EIN_COMPANY_NAMES
+				   ON ( WDADH.SCH_A_EIN = EIN_COMPANY_NAMES.SPONS_DFE_EIN ) 
+	WHERE  ( WDA1DH.ins_broker_name_normalized = 'RAYMOND JAMES' )
+	GROUP BY WDADH.ins_carrier_name_normalized
+[28-Dec-2018 06:58:59 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.SCH_A_EIN
+	FROM   WDA1DH 
+		   INNER JOIN WDADH 
+				   ON ( WDA1DH.ack_id = WD' at line 12 for query SELECT WDA1DH.ins_broker_name_normalized, 
+		   WDA1DH.ins_broker_us_state, 
+		   WDA1DH.ins_broker_zip, 
+		   sum(WDA1DH.ins_broker_comm_pd_amt) as ins_broker_comm_pd_amt, 
+		   sum(WDA1DH.ins_broker_fees_pd_amt) as ins_broker_fees_pd_amt, 
+		   WDADH.ins_carrier_name_normalized,
+		   EIN_COMPANY_NAMES.SPONSOR_DFE_NAME,
+		   EIN_COMPANY_NAMES.SPONS_DFE_MAIL_US_STATE,
+		   EIN_COMPANY_NAMES.SPONS_DFE_MAIL_US_ZIP,
+		   EIN_COMPANY_NAMES.TOTAL_PREMIUMS,
+		   EIN_COMPANY_NAMES.BROKER_REVENUE
+           WDADH.SCH_A_EIN
+	FROM   WDA1DH 
+		   INNER JOIN WDADH 
+				   ON ( WDA1DH.ack_id = WDADH.ack_id ) 
+		   INNER JOIN EIN_COMPANY_NAMES
+				   ON ( WDADH.SCH_A_EIN = EIN_COMPANY_NAMES.SPONS_DFE_EIN ) 
+	WHERE  ( WDA1DH.ins_broker_name_normalized = 'RAYMOND JAMES' )
+	GROUP BY WDADH.ins_carrier_name_normalized
+[28-Dec-2018 06:59:24 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.SCH_A_EIN
+	FROM   WDA1DH 
+		   INNER JOIN WDADH 
+				   ON ( WDA1DH.ack_id = WD' at line 12 for query SELECT WDA1DH.ins_broker_name_normalized, 
+		   WDA1DH.ins_broker_us_state, 
+		   WDA1DH.ins_broker_zip, 
+		   sum(WDA1DH.ins_broker_comm_pd_amt) as ins_broker_comm_pd_amt, 
+		   sum(WDA1DH.ins_broker_fees_pd_amt) as ins_broker_fees_pd_amt, 
+		   WDADH.ins_carrier_name_normalized,
+		   EIN_COMPANY_NAMES.SPONSOR_DFE_NAME,
+		   EIN_COMPANY_NAMES.SPONS_DFE_MAIL_US_STATE,
+		   EIN_COMPANY_NAMES.SPONS_DFE_MAIL_US_ZIP,
+		   EIN_COMPANY_NAMES.TOTAL_PREMIUMS,
+		   EIN_COMPANY_NAMES.BROKER_REVENUE
+           WDADH.SCH_A_EIN
+	FROM   WDA1DH 
+		   INNER JOIN WDADH 
+				   ON ( WDA1DH.ack_id = WDADH.ack_id ) 
+		   INNER JOIN EIN_COMPANY_NAMES
+				   ON ( WDADH.SCH_A_EIN = EIN_COMPANY_NAMES.SPONS_DFE_EIN ) 
+	WHERE  ( WDA1DH.ins_broker_name_normalized = 'RAYMOND JAMES' )
+	GROUP BY WDADH.ins_carrier_name_normalized
+[28-Dec-2018 07:01:49 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.SCH_A_EIN
+	FROM   WDA1DH 
+		   INNER JOIN WDADH 
+				   ON ( WDA1DH.ack_id = WD' at line 12 for query SELECT WDA1DH.ins_broker_name_normalized, 
+		   WDA1DH.ins_broker_us_state, 
+		   WDA1DH.ins_broker_zip, 
+		   sum(WDA1DH.ins_broker_comm_pd_amt) as ins_broker_comm_pd_amt, 
+		   sum(WDA1DH.ins_broker_fees_pd_amt) as ins_broker_fees_pd_amt, 
+		   WDADH.ins_carrier_name_normalized,
+		   EIN_COMPANY_NAMES.SPONSOR_DFE_NAME,
+		   EIN_COMPANY_NAMES.SPONS_DFE_MAIL_US_STATE,
+		   EIN_COMPANY_NAMES.SPONS_DFE_MAIL_US_ZIP,
+		   EIN_COMPANY_NAMES.TOTAL_PREMIUMS,
+		   EIN_COMPANY_NAMES.BROKER_REVENUE
+           WDADH.SCH_A_EIN
+	FROM   WDA1DH 
+		   INNER JOIN WDADH 
+				   ON ( WDA1DH.ack_id = WDADH.ack_id ) 
+		   INNER JOIN EIN_COMPANY_NAMES
+				   ON ( WDADH.SCH_A_EIN = EIN_COMPANY_NAMES.SPONS_DFE_EIN ) 
+	WHERE  ( WDA1DH.ins_broker_name_normalized = 'RAYMOND JAMES' )
+	GROUP BY WDADH.ins_carrier_name_normalized
